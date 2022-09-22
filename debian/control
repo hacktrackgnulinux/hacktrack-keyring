@@ -1,0 +1,15 @@
+Source: hacktrack-keyring
+Section: misc
+Priority: important
+Maintainer: HackTrack Team (HackTrack) <team@hacktracklinux.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/hacktrackgnulinux/hacktrack-keyring
+Vcs-Browser: https://github.com/hacktrackgnulinux/hacktrack-keyring.git
+
+Package: hacktrack-keyring
+Architecture: i386
+Depends: gnupg (>= 1.0.6-4)
+Description: Paket Kunci GnuPG untuk Mengakses Repository.
+ Repositori HackTrack GNU/Linux secara digital menandai file Release-nya.
+ Paket ini berisi kunci repositori yang digunakan untuk itu.
