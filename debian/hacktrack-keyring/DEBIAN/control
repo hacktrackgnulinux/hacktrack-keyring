@@ -1,6 +1,6 @@
 Package: hacktrack-keyring
 Version: 2022.1+return
-Architecture: amd64
+Architecture: i386
 Maintainer: HackTrack Team (HackTrack) <team@hacktracklinux.org>
 Installed-Size: 15
 Depends: gnupg (>= 1.0.6-4)
