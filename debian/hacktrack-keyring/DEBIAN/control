@@ -1,0 +1,12 @@
+Package: hacktrack-keyring
+Version: 2022.1+return
+Architecture: amd64
+Maintainer: HackTrack Team (HackTrack) <team@hacktracklinux.org>
+Installed-Size: 15
+Depends: gnupg (>= 1.0.6-4)
+Section: misc
+Priority: important
+Homepage: https://github.com/hacktrackgnulinux/hacktrack-keyring
+Description: Paket Kunci GnuPG untuk Mengakses Repository.
+ Repositori HackTrack GNU/Linux secara digital menandai file Release-nya.
+ Paket ini berisi kunci repositori yang digunakan untuk itu.
