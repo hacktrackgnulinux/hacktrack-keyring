@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=hacktrack-keyring
-version="hacktrack-keyring (2022.1)"
+version="hacktrack-keyring (2022.1+return)"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:hacktrackgnulinux/$package.git

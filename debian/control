@@ -8,7 +8,7 @@ Homepage: https://github.com/hacktrackgnulinux/hacktrack-keyring
 Vcs-Browser: https://github.com/hacktrackgnulinux/hacktrack-keyring.git
 
 Package: hacktrack-keyring
-Architecture: i386
+Architecture: i386 amd64
 Depends: gnupg (>= 1.0.6-4)
 Description: Paket Kunci GnuPG untuk Mengakses Repository.
  Repositori HackTrack GNU/Linux secara digital menandai file Release-nya.
